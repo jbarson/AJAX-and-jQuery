@@ -67,3 +67,7 @@ $.post('https://jsonplaceholder.typicode.com/posts', {
 - [Wikipedia: AJAX](<https://en.wikipedia.org/wiki/Ajax_(programming)>)
 - [MDN: XMLHttpRequest (XHR)](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
 - jQuery [AJAX](http://api.jquery.com/jquery.ajax/), [getJSON](https://api.jquery.com/jquery.getjson/), and [post](https://api.jquery.com/jquery.post/) methods
+- [ MDN AJAX](https://developer.mozilla.org/en-US/docs/Glossary/AJAX)
+- [ AXIOS, alternative to jquery for ajax ](https://axios-http.com/docs/intro)
+- [Can I Use](https://caniuse.com)
+- [I Can Haz Dad Joke API](https://icanhazdadjoke.com/api)
